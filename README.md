@@ -41,7 +41,7 @@ This experience has fueled my interest in using technology to create meaningful,
 
 ## Link of the design thinking video : [Click Here](https://www.youtube.com/watch?v=PeqJYnS5g_A) 👈🏻
 
-## Report of design thinking :[Click Here](https://docs.google.com/document/d/1r7rZ8ewG2cUjH_bpZu_VFw8k7tifTSATSpS9Tc_uIY8/edit?tab=t.0) 👈🏻
+## Report of design thinking :[Click Here](https://github.com/user-attachments/files/18480971/Design.Thinking.Report.pdf)👈🏻
 <hr>
 
 ## 2. 📹Reflection of Industry visit (UTM DIGITAL) 
