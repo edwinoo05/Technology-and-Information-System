@@ -42,7 +42,7 @@ We need to create a newsletter based on the industry visit on 14/01/2025
 ### E-portfolio
 We would need to build our profile and e-portfolio
 <br>
-[GitHub](https://github.com/edwinoo05)| [Website](https://edwinoo.github.io/)
+[GitHub](https://github.com/edwinoo05)| [Website](https://edwinoo05.github.io/)
 
 ## Reflection
 The Technology and Information System course gave me a thorough introduction to the core concepts of IS/IT, covering areas such as hardware, software, networks, and communications. Through practical exercises like PC setup and using productivity tools, I gained hands-on experience that is crucial for both personal and professional use of technology.
