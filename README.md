@@ -28,7 +28,7 @@ This course has been highly beneficial. First and foremost, numerous presentatio
 
 <hr>
 
-1. Reflection of Design Thinking🌟 
+## 1. Reflection of Design Thinking🌟 
 
 ## Photo : ![WhatsApp Image 2025-01-21 at 01 01 59_42e6c327](https://github.com/user-attachments/assets/a5e862c1-4ac9-40e6-946b-95083829e34d)
 
@@ -44,7 +44,7 @@ This experience has fueled my interest in using technology to create meaningful,
 ## Report of design thinking :[Click Here](https://docs.google.com/document/d/1r7rZ8ewG2cUjH_bpZu_VFw8k7tifTSATSpS9Tc_uIY8/edit?tab=t.0) 👈🏻
 <hr>
 
-2. 📹Reflection of Industry visit (UTM DIGITAL) 
+## 2. 📹Reflection of Industry visit (UTM DIGITAL) 
 
  Industry visit video : [Click Here](https://www.youtube.com/watch?v=bQ3cNlRpjW4)👈🏻
 
@@ -53,7 +53,8 @@ This experience has fueled my interest in using technology to create meaningful,
 
 Reflection :Attending the UTM Digital Talk and Visit events offered a wealth of knowledge about the university’s digital center operations. The talk was incredibly informative, giving me a deeper understanding of the work they do and how they manage various digital systems. A particularly enriching part of the experience was interacting with the staff during the visit. Listening to their personal stories, career journeys, and the challenges they encounter provided me with valuable insights and guidance for my own career path. Their passion and commitment motivated me to continue developing my skills and explore how I can contribute to the field.
 <hr>
-3.PC assemble 🖥️ 
+
+## 3.PC assemble 🖥️ 
 
 
 ## Photo : ![Pc Assemble](https://github.com/user-attachments/assets/4cdfd6fc-5b23-46e0-84d9-99d2b9b8ef85)
@@ -70,7 +71,7 @@ This activity also highlighted the importance of paying attention to detail, as 
 Overall, this experience not only strengthened my technical skills but also improved my ability to collaborate effectively in a team. It has motivated me to further explore hardware assembly and maintenance, as well as appreciate the complexity and precision involved in building a functional computer system.
 <hr>
 
-4. Industry talk (poster) 
+## 4. Industry talk (poster) 
 
 Reflection : The industry talk provided an insightful overview of the diverse skills needed for a successful career in data science. It emphasized the importance of curiosity, as data scientists must explore new datasets and find innovative solutions to complex problems. Storytelling with data was highlighted as crucial for transforming complex insights into clear, actionable narratives. 
 
@@ -83,7 +84,8 @@ The talk also stressed the significance of strong mathematics and programming sk
 
 Reflection: After attending this talk, I now have a much clearer understanding of the vital balance between technical and management skills required in software development. On the technical side, proficiency in programming languages, debugging, and ensuring robust security measures are essential for creating reliable software solutions. However, it’s equally important to have strong management skills. Effective communication, risk management, and an in-depth understanding of SDLC methodologies play a critical role in keeping projects aligned with their goals. These skills ensure that development teams can collaborate efficiently, meet deadlines, and navigate challenges effectively. The integration of both technical and management competencies throughout the phases—from initial design and development to rigorous testing and final implementation—ensures a smoother process and ultimately contributes to the success of the project.
 
-## Our Report:[Technology and Information System Asg3[1].pdf](https://github.com/user-attachments/files/18480490/Technology.and.Information.System.Asg3.1.pdf)
+## Our Report:[Click Here!!!](https://github.com/user-attachments/files/18480919/Technology.and.Information.System.Asg3.1.pdf)
+
 
 <hr>
 
