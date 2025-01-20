@@ -52,7 +52,7 @@ photo :![WhatsApp Image 2025-01-21 at 00 46 53_0597b72e](https://github.com/user
 
 
 Reflection :Attending the UTM Digital Talk and Visit events offered a wealth of knowledge about the university’s digital center operations. The talk was incredibly informative, giving me a deeper understanding of the work they do and how they manage various digital systems. A particularly enriching part of the experience was interacting with the staff during the visit. Listening to their personal stories, career journeys, and the challenges they encounter provided me with valuable insights and guidance for my own career path. Their passion and commitment motivated me to continue developing my skills and explore how I can contribute to the field.
-
+<hr>
 3.PC assemble 🖥️ 
 
 image : ![Pc Assemble](https://github.com/user-attachments/assets/4cdfd6fc-5b23-46e0-84d9-99d2b9b8ef85)
