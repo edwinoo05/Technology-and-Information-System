@@ -30,7 +30,7 @@ This course has been highly beneficial. First and foremost, numerous presentatio
 
 1. Reflection of Design Thinking🌟 
 
-Photo : ![WhatsApp Image 2025-01-21 at 01 01 59_42e6c327](https://github.com/user-attachments/assets/a5e862c1-4ac9-40e6-946b-95083829e34d)
+## Photo : ![WhatsApp Image 2025-01-21 at 01 01 59_42e6c327](https://github.com/user-attachments/assets/a5e862c1-4ac9-40e6-946b-95083829e34d)
 
 
 Reflection : The Smart Retractable Canopy project in my Technology and Information System course provided me with a unique opportunity to explore the practical application of emerging technologies like IoT and AI. By addressing the common issues faced by car porch users in Malaysia—such as getting wet in the rain or enduring extreme heat—I was able to contribute to a solution that directly impacts daily life.
@@ -39,23 +39,24 @@ Through this project, I not only enhanced my technical skills in developing prot
 
 This experience has fueled my interest in using technology to create meaningful, real-world solutions and reinforced my desire to pursue projects that enhance convenience, efficiency, and quality of life for users.
 
-link of the design thinking video : [Click Here](https://www.youtube.com/watch?v=PeqJYnS5g_A) 👈🏻
+## Link of the design thinking video : [Click Here](https://www.youtube.com/watch?v=PeqJYnS5g_A) 👈🏻
 
-report of design thinking :[Click Here](https://docs.google.com/document/d/1r7rZ8ewG2cUjH_bpZu_VFw8k7tifTSATSpS9Tc_uIY8/edit?tab=t.0) 👈🏻
+## Report of design thinking :[Click Here](https://docs.google.com/document/d/1r7rZ8ewG2cUjH_bpZu_VFw8k7tifTSATSpS9Tc_uIY8/edit?tab=t.0) 👈🏻
 <hr>
 
 2. 📹Reflection of Industry visit (UTM DIGITAL) 
 
  Industry visit video : [Click Here](https://www.youtube.com/watch?v=bQ3cNlRpjW4)👈🏻
 
-photo :![WhatsApp Image 2025-01-21 at 00 46 53_0597b72e](https://github.com/user-attachments/assets/be8c79b6-8d01-41ca-9ac4-195d3a8ef2c8)
+## Photo :![WhatsApp Image 2025-01-21 at 00 46 53_0597b72e](https://github.com/user-attachments/assets/be8c79b6-8d01-41ca-9ac4-195d3a8ef2c8)
 
 
 Reflection :Attending the UTM Digital Talk and Visit events offered a wealth of knowledge about the university’s digital center operations. The talk was incredibly informative, giving me a deeper understanding of the work they do and how they manage various digital systems. A particularly enriching part of the experience was interacting with the staff during the visit. Listening to their personal stories, career journeys, and the challenges they encounter provided me with valuable insights and guidance for my own career path. Their passion and commitment motivated me to continue developing my skills and explore how I can contribute to the field.
 <hr>
 3.PC assemble 🖥️ 
 
-image : ![Pc Assemble](https://github.com/user-attachments/assets/4cdfd6fc-5b23-46e0-84d9-99d2b9b8ef85)
+
+## Photo : ![Pc Assemble](https://github.com/user-attachments/assets/4cdfd6fc-5b23-46e0-84d9-99d2b9b8ef85)
 
 
 Reflection : The PC assembly activity was a hands-on and educational experience that offered valuable insights into the inner workings of a computer. Collaborating in groups of six, the activity not only deepened my understanding of computer hardware but also enhanced my problem-solving and teamwork skills.
@@ -74,14 +75,15 @@ Overall, this experience not only strengthened my technical skills but also impr
 Reflection : The industry talk provided an insightful overview of the diverse skills needed for a successful career in data science. It emphasized the importance of curiosity, as data scientists must explore new datasets and find innovative solutions to complex problems. Storytelling with data was highlighted as crucial for transforming complex insights into clear, actionable narratives. 
 
 The talk also stressed the significance of strong mathematics and programming skills, particularly in languages like Python or R, for implementing algorithms and analyzing data. These skills were shown to work together to create well-rounded data scientists who can solve real-world problems. The speakers shared practical advice, reinforcing that mastering curiosity, storytelling, math, and programming is key to success in data science.
-poster: (https://github.com/user-attachments/assets/0b24acc0-ffee-4bce-affa-ccb49d31d80e)
+
+## Our Poster: [Click Here!!!](https://github.com/user-attachments/assets/0b24acc0-ffee-4bce-affa-ccb49d31d80e)
 
 <hr>
 5. Industry talk (report)
 
 Reflection: After attending this talk, I now have a much clearer understanding of the vital balance between technical and management skills required in software development. On the technical side, proficiency in programming languages, debugging, and ensuring robust security measures are essential for creating reliable software solutions. However, it’s equally important to have strong management skills. Effective communication, risk management, and an in-depth understanding of SDLC methodologies play a critical role in keeping projects aligned with their goals. These skills ensure that development teams can collaborate efficiently, meet deadlines, and navigate challenges effectively. The integration of both technical and management competencies throughout the phases—from initial design and development to rigorous testing and final implementation—ensures a smoother process and ultimately contributes to the success of the project.
 
-report:[Technology and Information System Asg3[1].pdf](https://github.com/user-attachments/files/18480490/Technology.and.Information.System.Asg3.1.pdf)
+## Our Report:[Technology and Information System Asg3[1].pdf](https://github.com/user-attachments/files/18480490/Technology.and.Information.System.Asg3.1.pdf)
 
 <hr>
 
