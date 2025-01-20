@@ -80,7 +80,8 @@ The talk also stressed the significance of strong mathematics and programming sk
 ## Our Poster: [Click Here!!!](https://github.com/user-attachments/assets/0b24acc0-ffee-4bce-affa-ccb49d31d80e)
 
 <hr>
-5. Industry talk (report)
+
+## 5. Industry talk (report)
 
 Reflection: After attending this talk, I now have a much clearer understanding of the vital balance between technical and management skills required in software development. On the technical side, proficiency in programming languages, debugging, and ensuring robust security measures are essential for creating reliable software solutions. However, it’s equally important to have strong management skills. Effective communication, risk management, and an in-depth understanding of SDLC methodologies play a critical role in keeping projects aligned with their goals. These skills ensure that development teams can collaborate efficiently, meet deadlines, and navigate challenges effectively. The integration of both technical and management competencies throughout the phases—from initial design and development to rigorous testing and final implementation—ensures a smoother process and ultimately contributes to the success of the project.
 
